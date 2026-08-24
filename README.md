@@ -71,16 +71,6 @@ My main focus is building practical software that solves business problems — f
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
 
-### Tools
-
-* Git / GitHub
-* Jira
-* Postman
-* Figma
-* Agile / Scrum
-* CI/CD
-
----
 
 ## 🤝 What I Like Building
 
@@ -102,11 +92,4 @@ I'm particularly interested in projects involving:
 
 **Email:** [uytwqhbclpf379@gmail.com](mailto:uytwqhbclpf379@gmail.com)
 
-📍 Tokyo / Chiba, Japan
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you're interested in **Full-Stack Development, AI applications, SaaS, or cloud-based systems**, feel free to explore my repositories.
 
