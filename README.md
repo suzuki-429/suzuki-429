@@ -33,13 +33,6 @@ My main focus is building practical software that solves business problems — f
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat)
 
-* OpenAI API
-* Claude API
-* LangChain
-* Retrieval-Augmented Generation (RAG)
-* Prompt Engineering
-* AI Workflow Automation
-
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
