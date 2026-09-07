@@ -1,26 +1,10 @@
 # Hi, I'm Suzuki Yuuhei 👋
 
-### Full-Stack & AI Developer
+## 🚀 About Me
 
 I'm a Full-Stack Engineer with **7+ years of experience** building enterprise web applications, SaaS platforms, AI-powered systems, and cloud solutions.
 
 My main focus is building practical software that solves business problems — from frontend applications and REST APIs to AI workflow automation, cloud infrastructure, and performance optimization.
-
----
-
-## 🚀 About Me
-
-* 💻 7+ years of professional software development experience
-* 🤖 Full-Stack & AI Developer
-* 🌐 Enterprise Web Applications & SaaS
-* 🧠 LLM Applications, RAG & Prompt Engineering
-* ☁️ AWS, Docker, Kubernetes & Terraform
-* ⚡ Performance Optimization & System Design
-* 🔄 CI/CD & Development Automation
-* 🏗️ REST APIs, Microservices & Cloud Architecture
-* 👥 Code Reviews, Technical Discussions & Developer Mentoring
-
----
 
 ## 🛠️ Tech Stack
 
